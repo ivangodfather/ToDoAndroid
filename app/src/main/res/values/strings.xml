@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyToDoList</string>
+    <string name="author_name">What is the name of your list?</string>
+    <string name="create_list">Create</string>
+    <string name="book_name">Enter book name</string>
+    <string name="book_create">Insert</string>
+</resources>
